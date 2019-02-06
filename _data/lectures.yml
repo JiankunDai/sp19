@@ -1,13 +1,15 @@
 - date: 1/22/19
   discussion: '- [Disc1](assets/discussions/disc01/disc01.pdf)
 
-  - [Solutions](assets/discussions/disc01/disc01_sol.pdf)
-
-  '
-  homework: '[HW1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw1/hw1.ipynb) (due 1/28)
+    - [Solutions](assets/discussions/disc01/disc01_sol.pdf)
 
     '
-  lab: '[Lab1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab01/lab01.ipynb) (due 1/23)
+  homework: '[HW1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw1/hw1.ipynb)
+    (due 1/28)
+
+    '
+  lab: '[Lab1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab01/lab01.ipynb)
+    (due 1/23)
 
     '
   resources: '- [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
@@ -18,47 +20,51 @@
   slides: assets/lectures/lec01.pdf
   topic: Course Overview, Motivating/Defining Data Science, Logistics
 - date: 1/24/19
-  topic: Study Design
   slides: assets/lectures/lec02.pdf
+  topic: Study Design
 - date: 1/29/19
   discussion: '- [Disc2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc02/disc02.ipynb)
 
-  - [Solutions](https://github.com/DS-100/sp19/blob/master/disc/disc02/disc02_sol.ipynb)
-
-  '
-  homework: '[Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj1/proj1.ipynb) (due 2/12 @ 6pm)
-
-  '
-  lab: '[Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab02/lab02.ipynb) (due 1/30)
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/disc/disc02/disc02_sol.ipynb)
 
     '
-  topic: Data Tables with Pandas
+  homework: '[Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj1/proj1.ipynb)
+    (due 2/12 @ 6pm)
+
+    '
+  lab: '[Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab02/lab02.ipynb)
+    (due 1/30)
+
+    '
   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
 
-- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec03)
+    - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec03)
 
-- [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec03)
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec03)
 
     '
   slides: https://docs.google.com/presentation/d/1j-rNsz8WbmHMj1TLp-Ap4MAipo_zbu_KX1J9waP-fAg/edit?usp=sharing
+  topic: Data Tables with Pandas
 - date: 1/31/19
   resources: '- [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
 
-- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec04)
+    - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec04)
 
-- [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec04)
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec04)
 
     '
-  topic: Data Cleaning
   slides: https://docs.google.com/presentation/d/1mQKWp8tHC8rVDUOO69P0wQf4jsj-CvMk4AA73VK0QM0/edit?usp=sharing
+  topic: Data Cleaning
 - date: 2/5/19
   discussion: Disc3
-  lab: '[Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab03/lab03.ipynb) (due 2/6)
+  lab: '[Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab03/lab03.ipynb)
+    (due 2/6)
 
-  '
+    '
   resources: '- [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
 
     '
+  slides: assets/lectures/lec4/visualization.pdf
   topic: Visualization and EDA I
 - date: 2/7/19
   resources: '- [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
