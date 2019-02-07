@@ -61,21 +61,21 @@
     (due 2/6)
 
     '
-  resources: '- [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
-
-    '
-  slides: assets/lectures/lec4/visualization.pdf
-  topic: Visualization and EDA I
-- date: 2/7/19
   resources: '- [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 
     '
-  topic: Visualization and EDA II
+  slides: assets/lectures/lec4/visualization.pdf
+  topic: Visualization
+- date: 2/7/19
+  resources: '- [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
+
+    '
+  topic: Visualization and EDA
 - date: 2/12/19
   discussion: Disc4
   homework: Proj1 Due, HW2
   lab: Lab4
-  resources: '- [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
+  resources: '- [Textbook: Working with Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
 
     '
   topic: Working with Text
@@ -88,9 +88,9 @@
   discussion: Disc5
   homework: HW3
   lab: Lab5
-  topic: Clustering
-- date: 2/21/19
   topic: Dimensionality Reduction
+- date: 2/21/19
+  topic: Missing Values
 - date: 2/26/19
   discussion: Disc6
   homework: HW4
