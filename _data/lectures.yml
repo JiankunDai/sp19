@@ -70,12 +70,8 @@
   resources: '- [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
 
     '
-<<<<<<< HEAD
   slides: assets/lectures/lec5/visualization.pdf
-  topic: Visualization and EDA II
-=======
   topic: Visualization and EDA
->>>>>>> 62f9d5ef98c06ef9515aced1392ac5546d84a8d7
 - date: 2/12/19
   discussion: Disc4
   homework: Proj1 Due, HW2
