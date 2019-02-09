@@ -87,6 +87,10 @@
 - date: 2/14/19
   resources: '- [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 
+    - [SQL Review Slides](https://docs.google.com/presentation/d/1mLVkQxah9asdKhnTNpcUSYBOuKGSWE_d3MJ5nYuTw9U/edit?usp=sharing)
+
+    - [SQL Review Worksheet](assets/discussions/sqlReview/sqlReview.pdf)
+
     '
   topic: SQL
 - date: 2/19/19
