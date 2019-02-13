@@ -75,13 +75,13 @@
 
     '
   slides: assets/lectures/lec4/visualization.pdf
-  topic: Visualization
+  topic: Visualization I
 - date: 2/7/19
   resources: '- [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
 
     '
   slides: assets/lectures/lec5/visualization.pdf
-  topic: Visualization and EDA
+  topic: Visualization II
 - date: 2/12/19
   discussion: Disc4
   homework: Proj1 Due, HW2
@@ -91,8 +91,13 @@
   '
   resources: '- [Textbook: Working with Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
 
+    - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec07)
+
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec07)
+
     '
-  topic: Working with Text
+  topic: EDA & Working with Text
+  slides: https://docs.google.com/presentation/d/1Qd92eHRNx3Hx7GHm7veMLXbnuBwwhl168cLMnzEgixY/edit?usp=sharing
 - date: 2/14/19
   resources: '- [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 
