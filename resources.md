@@ -3,11 +3,25 @@ layout: page
 title: "Resources"
 ---
 
-We will be posting all lecture materials on the course syllabus.  In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa18).
+## Exam Resources
+
+* Fall 2018 Midterm (truncated): [exam](assets/exams/fa18/fa18_mt_truncated.pdf), [solutions](assets/exams/fa18/fa18_mt_truncated_sol.pdf)
+* Fall 2018 Final (truncated): [exam](assets/exams/fa18/fa18_final_truncated.pdf), [solutions](assets/exams/fa18/fa18_final_truncated_sol.pdf)
+* Spring 2018 Midterm: [exam](assets/exams/sp18/sp18midterm.pdf), [solutions](assets/exams/sp18/sp18midtermsol.pdf)
+* Spring 2018 Final: [exam](assets/exams/sp18/sp18final.pdf), [solutions](assets/exams/sp18/sp18finalsol.pdf), [video](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr)
+* Fall 2017 Midterm: [exam](assets/exams/fa17/fa17midterm.pdf), [solutions](assets/exams/fa17/fa17midtermsol.pdf), [video](https://www.youtube.com/watch?v=uYS4ZBB0aZU&list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY)
+* Fall 2017 Practice Midterm: [exam](assets/exams/fa17/fa17practicemidterm.pdf), [solutions](assets/exams/fa17/fa17midtermsol.pdf)
+* Fall 2017 Final: [exam](assets/exams/fa17/fa17final.pdf), [solutions](assets/exams/fa17/fa17finalsol.pdf)
+* Fall 2017 Practice Final: [exam](assets/exams/fa17/fa17practicefinal.pdf), [solutions](assets/exams/fa17/fa17practicefinalsol.pdf)
+* Spring 2017 Final: [exam](assets/exams/sp17/sp17final.pdf), [solutions](assets/exams/sp17/sp17finalsol.pdf)
+
+## Other Resources
+
+We will be posting all lecture materials on the course syllabus.  In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/sp19).
 
 Here is a collection of resources that will help you learn more about various concepts and skills covered in the class.  Learning by reading is a key part of being a well rounded data scientist.  We will not assign mandatory reading but instead encourage you to look at these _and other_ materials.  If you find something helpful, post it on Piazza, and consider contributing it to the course website.
 
-You can send us changes to the course website by [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull request](https://help.github.com/articles/about-pull-requests/) to the [course website github repository](https://github.com/DS-100/fa18).  You will then become part of the history of the DS100 class at Berkeley.
+You can send us changes to the course website by [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull request](https://help.github.com/articles/about-pull-requests/) to the [course website github repository](https://github.com/DS-100/sp19).  You will then become part of the history of the DS100 class at Berkeley.
 
 ## Web References
 
@@ -56,5 +70,3 @@ However, we have listed a few optional books that will provide additional contex
 ([Available as eBook for Berkeley students](http://proquest.safaribooksonline.com/9781449363871)) This books provides a unique case-study view of data science but uses R and not Python.
 
 * **[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)** ([Available as eBook for Berkeley students](http://proquest.safaribooksonline.com/9781449323592)).  This book provides a good reference for the Pandas library.
-
-
