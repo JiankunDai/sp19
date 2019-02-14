@@ -41,6 +41,8 @@
 
     - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab02/lab02_sol.ipynb)
 
+    - [Vitamin 1 Solutions](assets/vitamins/vit1_sol.pdf)
+
     '
   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
 
@@ -67,8 +69,10 @@
   - [Solutions](assets/discussions/disc03/disc03_sol.pdf)
 
   '
-  lab: '[Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab03/lab03.ipynb)
+  lab: '- [Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab03/lab03.ipynb)
     (due 2/6)
+
+    - [Vitamin 2 Solutions](assets/vitamins/vit2_sol.pdf)
 
     '
   resources: '- [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
