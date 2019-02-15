@@ -87,7 +87,9 @@
   slides: assets/lectures/lec5/visualization.pdf
   topic: Visualization II
 - date: 2/12/19
-  discussion: Disc4
+  discussion: '- [Disc4](assets/discussions/disc04/disc04.pdf)
+  
+  '
   homework: '[HW2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw2/hw2.ipynb)
   (due 2/19 @ 6pm)
 
