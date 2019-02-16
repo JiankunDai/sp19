@@ -10,7 +10,7 @@ title: "Resources"
 * Spring 2018 Midterm: [exam](assets/exams/sp18/sp18midterm.pdf), [solutions](assets/exams/sp18/sp18midtermsol.pdf)
 * Spring 2018 Final: [exam](assets/exams/sp18/sp18final.pdf), [solutions](assets/exams/sp18/sp18finalsol.pdf), [video](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr)
 * Fall 2017 Midterm: [exam](assets/exams/fa17/fa17midterm.pdf), [solutions](assets/exams/fa17/fa17midtermsol.pdf), [video](https://www.youtube.com/watch?v=uYS4ZBB0aZU&list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY)
-* Fall 2017 Practice Midterm: [exam](assets/exams/fa17/fa17practicemidterm.pdf), [solutions](assets/exams/fa17/fa17midtermsol.pdf)
+* Fall 2017 Practice Midterm: [exam](assets/exams/fa17/fa17practicemidterm.pdf), [solutions](assets/exams/fa17/fa17practicemidtermsol.pdf)
 * Fall 2017 Final: [exam](assets/exams/fa17/fa17final.pdf), [solutions](assets/exams/fa17/fa17finalsol.pdf)
 * Fall 2017 Practice Final: [exam](assets/exams/fa17/fa17practicefinal.pdf), [solutions](assets/exams/fa17/fa17practicefinalsol.pdf)
 * Spring 2017 Final: [exam](assets/exams/sp17/sp17final.pdf), [solutions](assets/exams/sp17/sp17finalsol.pdf)
