@@ -128,7 +128,10 @@
 - date: 2/19/19
   discussion: Disc5
   homework: HW3
-  lab: Lab5
+  lab: '[Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab05/lab05.ipynb)
+  (due 2/20)
+
+  '
   topic: Dimensionality Reduction
 - date: 2/21/19
   topic: Missing Values
