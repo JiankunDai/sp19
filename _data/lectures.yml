@@ -93,7 +93,7 @@
 
   '
   homework: '[HW2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw2/hw2.ipynb)
-  (due 2/19 @ 6pm)
+  (**extended** due Wed 2/20 @ 11:59pm)
 
   '
   lab: '[Lab4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab04/lab04.ipynb)
@@ -127,13 +127,15 @@
   slides: https://docs.google.com/presentation/d/1VtOxzUE-qynAnJ3JmDyJ1WfjZTUixTihpcXZI4-uWX8/edit?usp=sharing
 - date: 2/19/19
   discussion: Disc5
-  homework: HW3
-  lab: '[Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab05/lab05.ipynb)
-  (due 2/20)
-
-    - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec09)
+  homework: '[HW3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw2/hw3.ipynb)
+  (due Mon 2/25 @ 11:59pm)'
+  resources: '- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec09)
 
     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec09)
+
+  '
+  lab: '[Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab05/lab05.ipynb)
+  (due 2/20)
 
   '
   topic: Dimensionality Reduction
