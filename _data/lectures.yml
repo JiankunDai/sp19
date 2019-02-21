@@ -151,14 +151,14 @@
   slides: https://docs.google.com/presentation/d/10q_ei9ddX0TBqOq2u2_jVr1F6Hxa9T0XDnom-ZukLV8/edit?usp=sharing
 - date: 2/26/19
   discussion: Disc6
-  homework: HW4
+  homework:
   lab: Lab6
   topic: Case Study, Review
 - date: 2/28/19
   topic: Midterm 1
 - date: 3/5/19
   discussion: Disc7
-  homework: HW4 Due, HW5
+  homework: HW4
   lab: Lab7
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
@@ -171,7 +171,7 @@
   topic: Gradient Descent for Model Estimation
 - date: 3/12/19
   discussion: Disc8
-  homework: HW6
+  homework: HW5
   lab: Lab8
   resources: '- [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
 
@@ -186,7 +186,7 @@
   topic: Linear Regression and Feature Engineering
 - date: 3/19/19
   discussion: Disc9
-  homework: HW7
+  homework: HW6
   lab: Lab9
   resources: '- [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
 
@@ -221,7 +221,7 @@
   topic: Midterm 2
 - date: 4/16/19
   discussion: Disc12
-  homework: Proj2 Due, Proj3
+  homework: Proj3
   lab: Lab12
   resources: '- [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
 
@@ -237,13 +237,13 @@
   topic: Distributed Computing II
 - date: 4/30/19
   discussion: Disc14
-  homework: Proj3 Due, HW8
+  homework: HW7
   lab: Lab14
   topic: Case Study, Review
 - date: 5/2/19
   topic: Conclusion
 - date: 5/7/19
-  homework: HW8 Due
+  homework:
   topic: RRR week
 - date: 5/9/19
   topic: RRR week
