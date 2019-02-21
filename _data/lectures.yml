@@ -141,7 +141,14 @@
   topic: Dimensionality Reduction
   slides: https://docs.google.com/presentation/d/1qcAB9vvulo0Xqd1Ix7X2SgVUx4cJh_Lvp2NXl2QItHs/edit?usp=sharing
 - date: 2/21/19
-  topic: Missing Values
+  topic: PCA
+  resources: '- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec10)
+
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec10)
+
+    - [A tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100)
+  '
+  slides: https://docs.google.com/presentation/d/10q_ei9ddX0TBqOq2u2_jVr1F6Hxa9T0XDnom-ZukLV8/edit?usp=sharing
 - date: 2/26/19
   discussion: Disc6
   homework: HW4
