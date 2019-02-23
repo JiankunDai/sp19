@@ -15,8 +15,8 @@ There will tentatively be 3 challenging projects and 8 homework assignments. Ass
 Midterm 1 will be in class on February 28th. Midterm 2 will be in class on
 April 11th. The final exam will be May 16th from 11:30am - 2:30pm. If you miss a midterm for a pre-approved reason, such as a class conflict or illness, then you won’t make it up, but instead your other midterm and the final exam will be
 used to compute your overall exam score (out of 50%). If you cannot make the
-regular final exam time for a pre-approved reason, there will be an alternate
-final exam time (tentatively scheduled for 3:00pm - 6:00pm on the same day).
+regular final exam time for a pre-approved reason, there will be alternate
+final exam times.
 
 ### Graduate Version
 
