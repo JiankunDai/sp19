@@ -68,9 +68,9 @@
 - date: 2/5/19
   discussion: '- [Disc3](assets/discussions/disc03/disc03.pdf)
 
-  - [Solutions](assets/discussions/disc03/disc03_sol.pdf)
+    - [Solutions](assets/discussions/disc03/disc03_sol.pdf)
 
-  '
+    '
   lab: '- [Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab03/lab03.ipynb)
     (due 2/6)
 
@@ -93,21 +93,21 @@
 - date: 2/12/19
   discussion: '- [Disc4](assets/discussions/disc04/disc04.pdf)
 
-  - [Solutions](assets/discussions/disc04/disc04_sol.pdf)
+    - [Solutions](assets/discussions/disc04/disc04_sol.pdf)
 
-  '
+    '
   homework: '[HW2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw2/hw2.ipynb)
-  (**extended** due Wed 2/20 @ 11:59pm)
+    (**extended** due Wed 2/20 @ 11:59pm)
 
-  '
+    '
   lab: '- [Lab4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab04/lab04.ipynb)
-  (due 2/13)
+    (due 2/13)
 
-  - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab04/lab04_sol.ipynb)
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab04/lab04_sol.ipynb)
 
-  - [Vitamin 3 Solutions](assets/vitamins/vit3_sol.pdf)
+    - [Vitamin 3 Solutions](assets/vitamins/vit3_sol.pdf)
 
-  '
+    '
   resources: '- [Textbook: Working with Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
 
     - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec07)
@@ -115,8 +115,8 @@
     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec07)
 
     '
-  topic: EDA & Working with Text
   slides: https://docs.google.com/presentation/d/1Qd92eHRNx3Hx7GHm7veMLXbnuBwwhl168cLMnzEgixY/edit?usp=sharing
+  topic: EDA & Working with Text
 - date: 2/14/19
   resources: '- [Textbook: SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 
@@ -131,55 +131,51 @@
     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec08)
 
     '
-  topic: SQL
   slides: https://docs.google.com/presentation/d/1VtOxzUE-qynAnJ3JmDyJ1WfjZTUixTihpcXZI4-uWX8/edit?usp=sharing
+  topic: SQL
 - date: 2/19/19
   discussion: '- [Disc5](assets/discussions/disc05/disc05.pdf)
 
-  - [Solutions](assets/discussions/disc05/disc05_sol.pdf)
+    - [Solutions](assets/discussions/disc05/disc05_sol.pdf)
 
-  '
+    '
   homework: '[HW3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw3/hw3.ipynb)
-  (**extended** due Tue 2/26 @ 9:00am)'
+    (**extended** due Tue 2/26 @ 9:00am)'
+  lab: '- [Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab05/lab05.ipynb)
+    (due 2/20)
+
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab05/lab05_sol.ipynb)
+
+    - [Vitamin 4 Solutions](assets/vitamins/vit4_sol.pdf)
+
+    '
   resources: '- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec09)
 
     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec09)
 
-  '
-  lab: '- [Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab05/lab05.ipynb)
-  (due 2/20)
-
-  - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab05/lab05_sol.ipynb)
-
-  - [Vitamin 4 Solutions](assets/vitamins/vit4_sol.pdf)
-
-  '
-  topic: Dimensionality Reduction
+    '
   slides: https://docs.google.com/presentation/d/1qcAB9vvulo0Xqd1Ix7X2SgVUx4cJh_Lvp2NXl2QItHs/edit?usp=sharing
+  topic: Dimensionality Reduction
 - date: 2/21/19
-  topic: PCA
   resources: '- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec10)
 
     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec10)
 
-    - [A tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100)
-  '
+    - [A tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100) '
   slides: https://docs.google.com/presentation/d/10q_ei9ddX0TBqOq2u2_jVr1F6Hxa9T0XDnom-ZukLV8/edit?usp=sharing
+  topic: PCA
 - date: 2/26/19
-  resources: '- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec11)
-
-    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec11)
-  '
   discussion: '- [Midterm Review](assets/discussions/lab06midtermreview/lab06midtermreview.pdf)
 
-  - [Solutions](assets/discussions/lab06midtermreview/lab06midtermreview_sol.pdf)
-  '
-  homework:
+    - [Solutions](assets/discussions/lab06midtermreview/lab06midtermreview_sol.pdf) '
+  homework: null
   lab: '- [Lab6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab06/lab06.ipynb)
-  (due 2/27)
-  '
-  topic: Case Study
+    (due 2/27) '
+  resources: '- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec11)
+
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec11) '
   slides: https://docs.google.com/presentation/d/1q_67p0lzXLP0jRPmQbTdY8gSfL0ya8lnTKuFq__J4NQ/edit?usp=sharing
+  topic: Case Study
 - date: 2/28/19
   topic: Midterm 1
 - date: 3/5/19
@@ -189,6 +185,7 @@
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
     '
+  slides: assets/lectures/lec12/inference.pdf
   topic: Modeling and Estimation
 - date: 3/7/19
   resources: '- [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
@@ -269,7 +266,7 @@
 - date: 5/2/19
   topic: Conclusion
 - date: 5/7/19
-  homework:
+  homework: null
   topic: RRR week
 - date: 5/9/19
   topic: RRR week
