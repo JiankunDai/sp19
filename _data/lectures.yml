@@ -180,8 +180,7 @@
   topic: Midterm 1
 - date: 3/5/19
   discussion: Disc7
-  homework: HW4
-  lab: Lab7
+  homework: '[HW4](assets/hw/hw4.pdf)'
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
     '
