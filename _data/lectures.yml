@@ -185,31 +185,31 @@
 - date: 3/5/19
   discussion: Disc7
   homework: '[HW4](assets/hw/hw4.pdf)'
-  resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
+  resources: '- [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
 
     '
   slides: assets/lectures/lec12/inference.pdf
-  topic: Modeling and Estimation
+  topic: Generalization and Empirical Risk Minimization
 - date: 3/7/19
-  resources: '- [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
+  resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
     '
-  topic: Gradient Descent for Model Estimation
+  topic: Modeling and Estimation
 - date: 3/12/19
   discussion: Disc8
   homework: HW5
   lab: Lab8
-  resources: '- [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
-
-    '
-  topic: Generalization and Empirical Risk Minimization
-- date: 3/14/19
   resources: '- [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
 
     - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
 
     '
   topic: Linear Regression and Feature Engineering
+- date: 3/14/19
+  resources: '- [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
+
+    '
+  topic: Gradient Descent for Model Estimation
 - date: 3/19/19
   discussion: Disc9
   homework: HW6
@@ -245,6 +245,9 @@
   topic: What's Next in Classification
 - date: 4/11/19
   topic: Midterm 2
+  resources: '- Midterm 2 Review Session in Wheeler 150 Wednesday 4/10 8-10 PM
+
+  '
 - date: 4/16/19
   discussion: Disc12
   homework: Proj3
