@@ -3,7 +3,9 @@ layout: page
 title: "Grading"
 ---
 
-There will tentatively be 3 challenging projects and 8 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs and homeworks will be dropped.
+There will be 3 projects and about 7 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs scores and two lowest homework scores will be dropped.
+
+*[Updated 3/8]* Vitamins are due each week, and your two lowest Vitamin scores will be dropped. Each Vitamin will be scored out of 3 points, and full credit (3 out of 3) will be given to any on-time submission that answers at least 3 questions correctly. Most Vitamins have 5 questions. Answering only 1 or 2 questions correctly will earn 1 or 2 points, respectively. Late submissions will not receive credit.
 
 - 20% Homeworks
 - 10% Labs
