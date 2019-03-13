@@ -206,6 +206,7 @@
     (due 3/13)
 
   '
+  slides: assets/lectures/linReg.pdf
   resources: '- [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
 
     - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
