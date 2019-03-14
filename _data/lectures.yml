@@ -187,6 +187,8 @@
 
     - [Solutions](assets/discussions/disc06/disc06_sol.pdf)
 
+    - [Disc6e](assets/discussions/disc06e/disc06e.pdf)
+
     '
   homework: '[HW4](assets/hw/hw4.pdf) (due 3/12 @ 6pm)'
   resources: '- [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
@@ -200,7 +202,11 @@
     '
   topic: Foundations of Statistical Inference
 - date: 3/12/19
-  discussion: Disc8
+  discussion: '- [Disc7](assets/discussions/disc07/disc07.pdf)
+
+    - [Disc7e](assets/discussions/disc07e/disc07e.pdf)
+
+    '
   homework: '[HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw5/hw5.ipynb) (due 3/19 @ 6pm)'
   lab: '- [Lab7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab07/lab07.ipynb)
     (due 3/13)

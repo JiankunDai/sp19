@@ -5,8 +5,8 @@ title: "Resources"
 
 ## Exam Resources
 
-* Fall 2018 Midterm (truncated): [exam](assets/exams/fa18/fa18_mt_truncated.pdf), [solutions](assets/exams/fa18/fa18_mt_truncated_sol.pdf)
-* Fall 2018 Final (truncated): [exam](assets/exams/fa18/fa18_final_truncated.pdf), [solutions](assets/exams/fa18/fa18_final_truncated_sol.pdf)
+* Fall 2018 Midterm: [exam](assets/exams/fa18/fa18midterm.pdf), [solutions](assets/exams/fa18/fa18midtermsol.pdf)
+* Fall 2018 Final: [exam](assets/exams/fa18/fa18final.pdf), [solutions](assets/exams/fa18/fa18finalsol.pdf)
 * Spring 2018 Midterm: [exam](assets/exams/sp18/sp18midterm.pdf), [solutions](assets/exams/sp18/sp18midtermsol.pdf)
 * Spring 2018 Final: [exam](assets/exams/sp18/sp18final.pdf), [solutions](assets/exams/sp18/sp18finalsol.pdf), [video](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr)
 * Fall 2017 Midterm: [exam](assets/exams/fa17/fa17midterm.pdf), [solutions](assets/exams/fa17/fa17midtermsol.pdf), [video](https://www.youtube.com/watch?v=uYS4ZBB0aZU&list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY)
