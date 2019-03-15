@@ -226,6 +226,8 @@
     '
   topic: Linear Regression and Feature Engineering
 - date: 3/14/19
+  '
+  slides: assets/lectures/gradientDescent.pdf
   resources: '- [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
 
     '
