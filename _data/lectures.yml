@@ -203,7 +203,7 @@
 
     '
   slides: assets/lectures/lec12/inference.pdf
-  topic: Foundations of Statistical Inference (Slides update 03/12/2019)
+  topic: Foundations of Statistical Inference (Slides updated 03/12/2019)
 - date: 3/7/19
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
@@ -236,7 +236,7 @@
   resources: '- [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
 
     '
-  topic: Gradient Descent for Model Estimation
+  topic: Gradient Descent for Risk Optimization (Slides updated 03/19/2019)
 - date: 3/19/19
   discussion: Disc9
   homework: HW6
