@@ -238,13 +238,13 @@
     '
   topic: Gradient Descent for Risk Optimization (Slides updated 03/19/2019)
 - date: 3/19/19
-  slides: assets/lectures/biasVarTradeoff.pdf
   discussion: Disc9
   homework: HW6
   lab: '- [Lab8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab08/lab08.ipynb)
     (due 3/20)
 
     '
+  slides: assets/lectures/biasVarTradeoff.pdf
   resources: '- [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
 
     '
