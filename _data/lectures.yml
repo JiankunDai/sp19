@@ -238,7 +238,6 @@
     '
   topic: Gradient Descent for Risk Optimization (Slides updated 03/19/2019)
 - date: 3/19/19
-  discussion: Disc9
   homework: '- [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw6/hw6.ipynb) (due 4/2 @ 6pm)'
   lab: '- [Lab8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab08/lab08.ipynb)
     (due 3/20)
@@ -248,7 +247,7 @@
   resources: '- [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
 
     '
-  topic: Risk Optimization and Bias-Variance Trade-Off 
+  topic: Risk Optimization and Bias-Variance Trade-Off
 - date: 3/21/19
   resources: '- [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
 
@@ -256,14 +255,15 @@
 
     '
   topic: Cross-Validation and Regularization
+  discussion: Disc08
 - date: 3/26/19
   topic: Spring Break
 - date: 3/28/19
   topic: Spring Break
 - date: 4/2/19
-  discussion: Disc10
+  discussion: Disc09
   homework: Proj2
-  lab: Lab10
+  lab: Lab09
   resources: '- [Textbook: Classification](https://www.textbook.ds100.org/ch/17/classification_intro.html)
 
     '
@@ -271,34 +271,30 @@
 - date: 4/4/19
   topic: Classification and Logistic Regression II
 - date: 4/9/19
-  discussion: Disc11
-  lab: Lab11
-  topic: What's Next in Classification
+  lab: Lab10
+  topic: Decision Trees
 - date: 4/11/19
   topic: Midterm 2
   resources: '- Midterm 2 Review Session in Wheeler 150 Wednesday 4/10 8-10 PM
 
   '
 - date: 4/16/19
-  discussion: Disc12
+  discussion: Disc10
   homework: Proj3
-  lab: Lab12
   resources: '- [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
 
     '
-  topic: Hypothesis Testing I
+  topic: Ensemble Methods
 - date: 4/18/19
-  topic: Hypothesis Testing II
+  topic: Inference about Model Parameters
 - date: 4/23/19
-  discussion: Disc13
-  lab: Lab13
+  discussion: Disc11
+  lab: Lab11
   topic: Distributed Computing I
 - date: 4/25/19
   topic: Distributed Computing II
 - date: 4/30/19
-  discussion: Disc14
   homework: HW7
-  lab: Lab14
   topic: Case Study, Review
 - date: 5/2/19
   topic: Conclusion
