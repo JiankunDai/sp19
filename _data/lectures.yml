@@ -255,6 +255,7 @@
 
     '
   slides: assets/lectures/cv.pdf
+    '
   slides: assets/lectures/regularization.pdf
   topic: Cross-Validation and Regularization
   discussion: Disc08
