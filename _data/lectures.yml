@@ -250,9 +250,12 @@
   topic: Risk Optimization and Bias-Variance Trade-Off
 - date: 3/21/19
   resources: '- [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
+  
   - [Textbook: Cross-Validation](https://www.textbook.ds100.org/ch/15/bias_cv.html)
-  - [Slides: Cross-Validation](https://github.com/DS-100/sp19/blob/gh-pages/assets/lectures/cv.pdf)
-  - [Slides: Regularized Regression](https://github.com/DS-100/sp19/blob/gh-pages/assets/lectures/regularization.pdf)
+  
+  - [Slides: Cross-Validation](assets/lectures/cv.pdf)
+  
+  - [Slides: Regularized Regression](assets/lectures/regularization.pdf)
   '
   topic: Cross-Validation and Regularized Regression
   discussion: Disc08
