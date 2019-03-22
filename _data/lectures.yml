@@ -254,6 +254,8 @@
     - [Textbook: Cross-Validation](https://www.textbook.ds100.org/ch/15/bias_cv.html)
 
     '
+  slides: assets/lectures/cv.pdf
+  slides: assets/lectures/regularization.pdf
   topic: Cross-Validation and Regularization
   discussion: Disc08
 - date: 3/26/19
