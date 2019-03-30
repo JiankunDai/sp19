@@ -223,7 +223,7 @@
     - [Solutions](assets/discussions/disc07e/disc07e_sol.pdf)
 
     '
-  homework: '[HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw5/hw5.ipynb) (due 3/19 @ 6pm)'
+  homework: '- [HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw5/hw5.ipynb) (due 3/19 @ 6pm)'
   lab: '- [Lab7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab07/lab07.ipynb)
     (due 3/13)
 
@@ -242,6 +242,7 @@
     '
   topic: Gradient Descent for Risk Optimization (Slides updated 03/19/2019)
 - date: 3/19/19
+  discussion: Disc8
   homework: '- [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw6/hw6.ipynb) (due 4/2 @ 6pm)'
   lab: '- [Lab8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab08/lab08.ipynb)
     (due 3/20)
@@ -254,23 +255,25 @@
   topic: Risk Optimization and Bias-Variance Trade-Off
 - date: 3/21/19
   resources: '- [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
-  
+
   - [Textbook: Cross-Validation](https://www.textbook.ds100.org/ch/15/bias_cv.html)
-  
+
   - [Slides: Cross-Validation](assets/lectures/cv.pdf)
-  
+
   - [Slides: Regularized Regression](assets/lectures/regularization.pdf)
   '
   topic: Cross-Validation and Regularized Regression
-  discussion: Disc08
 - date: 3/26/19
   topic: Spring Break
 - date: 3/28/19
   topic: Spring Break
 - date: 4/2/19
-  discussion: Disc09
+  discussion: Disc9
   homework: Proj2
-  lab: Lab09
+  lab: '- [Lab9](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab09/lab09.ipynb)
+    (due 4/3)
+
+    '
   resources: '- [Textbook: Classification](https://www.textbook.ds100.org/ch/17/classification_intro.html)
 
     '
