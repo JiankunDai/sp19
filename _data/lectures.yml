@@ -242,7 +242,6 @@
     '
   topic: Gradient Descent for Risk Optimization (Slides updated 03/19/2019)
 - date: 3/19/19
-  discussion: Disc8
   homework: '- [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw6/hw6.ipynb) (due 4/2 @ 6pm)'
   lab: '- [Lab8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab08/lab08.ipynb)
     (due 3/20)
@@ -267,6 +266,7 @@
   topic: Spring Break
 - date: 3/28/19
   topic: Spring Break
+  discussion: Disc8
 - date: 4/2/19
   discussion: Disc9
   homework: Proj2
@@ -276,22 +276,29 @@
     '
   resources: '- [Textbook: Classification](https://www.textbook.ds100.org/ch/17/classification_intro.html)
 
+    - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec18)
+
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec18)
+
     '
-  topic: Classification and Logistic Regression I
+  slides: https://docs.google.com/presentation/d/1Sut2bvlioC5vKto6fgStzMipfoMgOR-pXBbqkHKoAOw/edit?usp=sharing
+  topic: Logistic Regression
 - date: 4/4/19
-  topic: Classification and Logistic Regression II
+  topic: Classification
 - date: 4/9/19
   lab: Lab10
   topic: Decision Trees
 - date: 4/11/19
   topic: Midterm 2
-  resources: '- Midterm 2 Review Session in Wheeler 150 Wednesday 4/10 8-10 PM
+  resources: '- Review Session in Wheeler 150 Wed 4/10 8-10 PM
+
+  - Midterm 2 in Wheeler 150 Thurs 4/11 6:40-8 PM
 
   '
 - date: 4/16/19
   discussion: Disc10
   homework: Proj3
-  resources: '- [Textbook: Statistical Inference](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
+  resources: '
 
     '
   topic: Ensemble Methods
