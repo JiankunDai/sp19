@@ -22,6 +22,7 @@ final exam times.
 
 ### Graduate Version
 
+The following grading option will be used for students enrolled in the graduate version of the course.
 Students enrolled in the undergraduate version of the course may opt for
 the graduate grading scheme, which involves a final project instead of
 labs and vitamins.
