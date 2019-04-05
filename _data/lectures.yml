@@ -178,6 +178,8 @@
   lab: '- [Lab6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab06/lab06.ipynb)
     (due 2/27)
 
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab06/lab06_sol.ipynb)
+
     - [Vitamin 5 Solutions](assets/vitamins/vit5_sol.pdf)
 
     '
@@ -227,6 +229,10 @@
   lab: '- [Lab7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab07/lab07.ipynb)
     (due 3/13)
 
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab07/lab07_sol.ipynb)
+
+    - [Vitamin 7 Solutions](assets/vitamins/vit7_sol.pdf)
+
     '
   slides: assets/lectures/linRegn.pdf
   resources: '- [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
@@ -245,6 +251,10 @@
   homework: '- [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw6/hw6.ipynb) (due 4/2 @ 6pm)'
   lab: '- [Lab8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab08/lab08.ipynb)
     (due 3/20)
+
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab08/lab08_sol.ipynb)
+
+    - [Vitamin 8 Solutions](assets/vitamins/vit8_sol.pdf)
 
     '
   slides: assets/lectures/biasVarTradeoff.pdf
@@ -268,9 +278,16 @@
   topic: Spring Break
   discussion: '
   - [Disc8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc08/disc08.ipynb) ([Solution](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc08/disc08_sol.ipynb))
+
+  - [Disc8e](assets/discussions/disc08e/disc08e.pdf)
+
+  - [Solutions](assets/discussions/disc08e/disc08e_sol.pdf)
   '
 - date: 4/2/19
-  discussion: Disc9
+  discussion: '- [Disc9](assets/discussions/disc09/disc09.pdf)
+
+  - [Disc9e](assets/discussions/disc09e/disc09e.pdf)
+  '
   homework: '
    [Proj2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj2/proj2.ipynb)
     (due 4/16 @ 6pm)
