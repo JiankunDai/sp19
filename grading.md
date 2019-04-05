@@ -14,18 +14,22 @@ There will be 3 projects and about 7 homework assignments. Assignments must be c
 - 20% Midterms (10% each)
 - 30% Final
 
-Midterm 1 will be in class on February 28th. Midterm 2 will be in class on
-April 11th. The final exam will be May 16th from 11:30am - 2:30pm. If you miss a midterm for a pre-approved reason, such as a class conflict or illness, then you won’t make it up, but instead your other midterm and the final exam will be
-used to compute your overall exam score (out of 50%). If you cannot make the
-regular final exam time for a pre-approved reason, there will be alternate
-final exam times.
+Midterm 1 will be in class on February 28th. Midterm 2 will be in class on April
+11th. The final exam will be May 16th from 11:30am - 2:30pm. If you miss a
+midterm for a pre-approved reason, such as a class conflict or illness, then you
+won’t make it up, but instead your other midterm and the final exam will be used
+to compute your overall exam score (out of 50%). If you cannot make the regular
+final exam time for a pre-approved reason, there will be alternate final exam
+times.
 
 ### Graduate Version
 
-The following grading option will be used for students enrolled in the graduate version of the course.
-Students enrolled in the undergraduate version of the course may opt for
-the graduate grading scheme, which involves a final project instead of
-labs and vitamins.
+The following grading option will be used for students enrolled in the graduate
+version of the course. Students enrolled in the undergraduate version of the
+course may opt for the graduate grading scheme, which involves a final project
+instead of labs and vitamins. All students in Data 100 who complete a final
+project will be scored under both grading schemes and given the higher of the
+two scores.
 
 - 20% Homeworks
 - 15% Projects
