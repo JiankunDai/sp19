@@ -286,7 +286,11 @@
 - date: 4/2/19
   discussion: '- [Disc9](assets/discussions/disc09/disc09.pdf)
 
+  - [Solutions](assets/discussions/disc09/disc09_sol.pdf)
+
   - [Disc9e](assets/discussions/disc09e/disc09e.pdf)
+
+  - [Solutions](assets/discussions/disc09e/disc09e_sol.pdf)
   '
   homework: '
    [Proj2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj2/proj2.ipynb)
@@ -315,7 +319,10 @@
 
   '
 - date: 4/9/19
-  lab: Lab10
+  lab: '- [Lab10](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab10/lab10.ipynb)
+    (due 4/10)
+
+    '
   topic: Decision Trees
 
 - date: 4/11/19
