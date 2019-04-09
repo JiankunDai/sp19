@@ -313,7 +313,6 @@
   slides: https://docs.google.com/presentation/d/1Y799sM2f3tQQ_XJAVMZ2MK2sh9kAgD-EJQkCJNHDNdo/edit?usp=sharing
   topic: Classification
   resources: '
-
   - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec19)
 
   - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec19)
@@ -323,12 +322,11 @@
   lab: '- [Lab10](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab10/lab10.ipynb)
     (due 4/10)
     '
-  topic: Prediction: Classification and Regression
+topic: Prediction Classification and Regression
 resources: '
   - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec20)
-
   - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec20)
-'
+  '
 
 - date: 4/11/19
   topic: Midterm 2
@@ -340,10 +338,7 @@ resources: '
 - date: 4/16/19
   discussion: Disc10
   homework: Proj3
-  resources: '
-
-    '
-  topic: Prediction: Classification and Regression
+  topic: Prediction Classification and Regression
 - date: 4/18/19
   topic: Inference about Model Parameters
 - date: 4/23/19
