@@ -324,10 +324,8 @@
     '
 topic: Prediction Classification and Regression
 resources: '
-  - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec20)
-  - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec20)
+   - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec20)
   '
-
 - date: 4/11/19
   topic: Midterm 2
   resources: '- Review Session in Wheeler 150 Wed 4/10 8-10 PM
