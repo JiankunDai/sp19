@@ -343,7 +343,9 @@
 - date: 4/16/19
   discussion: Disc10
   topic: "Prediction: Classification and Regression"
-  homework: [Final Project](project)
+  homework: '
+  [Final Project](project)
+  '
 - date: 4/18/19
   topic: Inference about Model Parameters
   homework: Proj3
