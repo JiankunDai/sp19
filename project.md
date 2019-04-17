@@ -57,4 +57,4 @@ In order to ensure that you have applied the course materials in sufficient scop
 
 ### Option 2: Image Classification
 
-The specification of this option is in a Jupyter Notebook (to be released shortly).
+Download [this ZIP archive](assets/final_project.zip) and read [the specification](final_project.pdf) to complete the pre-defined final project about image classification.
