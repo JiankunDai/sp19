@@ -348,8 +348,16 @@
   [Final Project](project)
   '
 - date: 4/18/19
-  topic: Inference about Model Parameters
+  topic: Inference about Models
   homework: Proj3
+  slides: https://docs.google.com/presentation/d/1qu2E72KC5wPFW-3ZX6MOB43ft7JjYmBSmX80pSSz3nc/edit?usp=sharing
+  resources: '- [Textbook: Bootstrapping](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
+
+    - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec22)
+
+    - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec22)
+
+    '
 - date: 4/23/19
   discussion: Disc11
   lab: Lab11
