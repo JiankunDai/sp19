@@ -349,7 +349,11 @@
   '
 - date: 4/18/19
   topic: Inference about Models
-  homework: Proj3
+  homework: '
+   [Proj3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj3/proj3.ipynb)
+    (due 5/2 @ 11:59pm)
+
+    '
   slides: https://docs.google.com/presentation/d/1qu2E72KC5wPFW-3ZX6MOB43ft7JjYmBSmX80pSSz3nc/edit?usp=sharing
   resources: '- [Textbook: Bootstrapping](https://www.textbook.ds100.org/ch/18/hyp_regression.html)
 
