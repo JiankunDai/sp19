@@ -341,7 +341,9 @@
 
   '
 - date: 4/16/19
-  discussion: Disc10
+  discussion: '- [Disc10](assets/discussions/disc10/disc10.pdf)
+
+  '
   topic: "Prediction: Classification and Regression"
   slides: assets/lectures/prediction.pdf
   homework: '
