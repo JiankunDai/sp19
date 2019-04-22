@@ -367,7 +367,9 @@
     '
 - date: 4/23/19
   discussion: Disc11
-  lab: Lab11
+  lab: '- [Lab11](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab11/lab11.ipynb)
+    (due 4/24)
+  '
   topic: Distributed Computing I
 - date: 4/25/19
   topic: Distributed Computing II
