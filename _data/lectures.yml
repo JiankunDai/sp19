@@ -370,14 +370,21 @@
   lab: '- [Lab11](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab11/lab11.ipynb)
     (due 4/24)
   '
-  topic: Distributed Computing I
+  slides: assets/lectures/bigData.pdf
+  resources: '- [Slides in PowerPoint](assets/lectures/bigData.pptx)
+
+   - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec23)
+
+  '
+
+  topic: Big Data & Spark
 - date: 4/25/19
-  topic: Distributed Computing II
+  topic: Distributed Computing (Guest)
 - date: 4/30/19
   homework: HW7
-  topic: Case Study, Review
+  topic: Ethics of Data Science (Guest)
 - date: 5/2/19
-  topic: Conclusion
+  topic: Review and Conclusion
 - date: 5/7/19
   homework: null
   topic: RRR week
