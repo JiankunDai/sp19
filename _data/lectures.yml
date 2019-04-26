@@ -380,6 +380,9 @@
   topic: Big Data & Spark
 - date: 4/25/19
   topic: Distributed Computing (Guest)
+  homework: '
+    [HW 7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw7/hw7.ipynb) (due 5/03)
+    '
 - date: 4/30/19
   homework: HW7
   topic: Ethics of Data Science (Guest)
