@@ -285,7 +285,9 @@
 - date: 3/28/19
   topic: Spring Break
   discussion: '
-  - [Disc8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc08/disc08.ipynb) ([Solution](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc08/disc08_sol.ipynb))
+  - [Disc8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc08/disc08.ipynb)
+  
+  - [Solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc08/disc08_sol.ipynb)
 
   - [Disc8e](assets/discussions/disc08e/disc08e.pdf)
 
@@ -300,7 +302,7 @@
 
   - [Solutions](assets/discussions/disc09e/disc09e_sol.pdf)
   '
-  homework: '[Proj2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj2/proj2.ipynb)
+  homework: '- [Proj2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj2/proj2.ipynb)
     (due 4/16 @ 6pm)
     
     - [Solutions](https://github.com/DS-100/sp19/blob/master/proj/proj2/proj2_sol/proj2.ipynb)
@@ -363,12 +365,12 @@
   topic: "Prediction: Classification and Regression"
   slides: assets/lectures/prediction.pdf
   homework: '
-  [Final Project](project)
+  - [Final Project](project)
   '
 - date: 4/18/19
   topic: Inference about Models
   homework: '
-   [Proj3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj3/proj3.ipynb)
+  - [Proj3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj3/proj3.ipynb)
     (due 5/2 @ 11:59pm)
 
     '
@@ -405,7 +407,7 @@
 - date: 4/25/19
   topic: Distributed Computing (Guest)
   homework: '
-    [HW7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw7/hw7.ipynb) (due 5/6)
+  - [HW7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw7/hw7.ipynb) (**extended** due 5/6 @ 11:59pm)
     '
   slides: https://docs.google.com/presentation/d/1jaF-fKu4e2sG5YrfiD7-rCiaGzHo0j6EhplGu2xL_bc/edit?usp=sharing
 - date: 4/30/19
