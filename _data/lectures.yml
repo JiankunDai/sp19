@@ -225,7 +225,11 @@
     - [Solutions](assets/discussions/disc07e/disc07e_sol.pdf)
 
     '
-  homework: '- [HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw5/hw5.ipynb) (due 3/19 @ 6pm)'
+  homework: '- [HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw5/hw5.ipynb) (due 3/19 @ 6pm)
+  
+  - [Solutions](https://github.com/DS-100/sp19/blob/master/hw/hw5/hw5_sol/hw5.ipynb)
+  
+  '
   lab: '- [Lab7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab07/lab07.ipynb)
     (due 3/13)
 
@@ -248,7 +252,11 @@
     '
   topic: Gradient Descent for Risk Optimization (Slides updated 03/19/2019)
 - date: 3/19/19
-  homework: '- [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw6/hw6.ipynb) (due 4/2 @ 6pm)'
+  homework: '- [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw6/hw6.ipynb) (due 4/2 @ 6pm)
+  
+  - [Solutions](https://github.com/DS-100/sp19/blob/master/hw/hw6/hw6_sol/hw6.ipynb)
+  
+  '
   lab: '- [Lab8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab08/lab08.ipynb)
     (due 3/20)
 
@@ -292,9 +300,10 @@
 
   - [Solutions](assets/discussions/disc09e/disc09e_sol.pdf)
   '
-  homework: '
-   [Proj2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj2/proj2.ipynb)
+  homework: '[Proj2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj2/proj2.ipynb)
     (due 4/16 @ 6pm)
+    
+    - [Solutions](https://github.com/DS-100/sp19/blob/master/proj/proj2/proj2_sol/proj2.ipynb)
     '
   lab: '- [Lab9](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab09/lab09.ipynb)
     (due 4/3)
@@ -325,6 +334,10 @@
 - date: 4/9/19
   lab: '- [Lab10](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab10/lab10.ipynb)
     (due 4/10)
+    
+  - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab10/lab10_sol.ipynb)
+
+  - [Vitamin 10 Solutions](assets/vitamins/vit10_sol.pdf)
   '
   topic: "Prediction: Classification and Regression"
   slides: assets/lectures/prediction.pdf
@@ -336,6 +349,8 @@
 - date: 4/11/19
   topic: Midterm 2
   resources: '- Review Session in Wheeler 150 Wed 4/10 8-10 PM
+  
+  - [Review Session Slides](http://www.surajrampure.com/resources/ds100/midterm2review.pdf)
 
   - Midterm 2 in Wheeler 150 Thurs 4/11 6:40-8 PM
 
@@ -374,6 +389,10 @@
   '
   lab: '- [Lab11](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab11/lab11.ipynb)
     (due 4/24)
+  
+  - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab11/lab11_sol.ipynb)
+
+  - [Vitamin 11 Solutions](assets/vitamins/vit11_sol.pdf)
   '
   slides: assets/lectures/bigData.pdf
   resources: '- [Slides in PowerPoint](assets/lectures/bigData.pptx)
@@ -386,10 +405,17 @@
 - date: 4/25/19
   topic: Distributed Computing (Guest)
   homework: '
-    [HW7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw7/hw7.ipynb) (due 5/3)
+    [HW7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=hw/hw7/hw7.ipynb) (due 5/6)
     '
   slides: https://docs.google.com/presentation/d/1jaF-fKu4e2sG5YrfiD7-rCiaGzHo0j6EhplGu2xL_bc/edit?usp=sharing
 - date: 4/30/19
+  discussion: '- [Disc12](assets/discussions/disc12/disc12.pdf)
+
+  - [Solutions](assets/discussions/disc12/disc12_sol.pdf)
+  '
+  lab: '- [Vitamin 12 Solutions](assets/vitamins/vit12_sol.pdf)
+  
+  '
   topic: Ethics of Data Science (Guest)
 - date: 5/2/19
   topic: Review and Conclusion
