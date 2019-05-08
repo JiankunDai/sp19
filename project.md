@@ -18,12 +18,11 @@ project](https://forms.gle/xiUZp8aAETuRkApr8) by 11:59pm Wednesday April 24
 (@berkeley.edu login required). If you are working with a partner, you should
 both fill out the form.
 
-**Project Report**: Your project submission should be a single notebook that has
-the format of a research paper. It should include a title, list authors,
-abstract, introduction, description of data, description of methods, summary of
-results, and discussion. The notebook should also includes all code and
-visualizations. Make sure to number figures and tables and include informative
-captions.
+**Project Report**: 
+
+Option 1: Your project submission should be a single notebook that has the format of a research paper. It should include a title, list authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. The notebook should also includes all code and visualizations. Make sure to number figures and tables and include informative captions.
+
+Option 2: Your project submission should be according to the guidelines of the specification below.
 
 **Partners**:  You may complete the project on your own or with one other classmate.
 
